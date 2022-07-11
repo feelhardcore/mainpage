@@ -1,0 +1,34 @@
+body{
+    max-width: 1000px;
+  }
+.tso-header img{
+    height: 50px;
+  }
+.tso-header{
+    padding: 10px;
+    text-align: center;
+  }
+.tso-choose-service{
+    margin:20px;
+    text-align: center;
+  }
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+
+}
+.tso-service{
+
+margin: 20px auto;
+    cursor: pointer;
+    width : fit-content;
+    background-color:lightblue;
+    outline: none;
+    border: 2px inset rgb(6, 202, 236);
+    padding: 10px;
+    font-family: inherit;
+    font-size: 1.2em;
+    border-radius: 10px;
+    font-weight: bolder;
+  }
